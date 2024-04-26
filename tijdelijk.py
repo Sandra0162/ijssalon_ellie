@@ -5,5 +5,4 @@ prijzen = {
 }
 aanbieding= (3*0.8)
 reclame_tekst= reclame_tekst= "Vandaag in de aanbieding: Aardbei-ijs, 1 liter - slechts € "
-print(reclame_tekst)
-print (f'{aanbieding}')
+reclame_tekst2 = print(reclame_tekst,aanbieding)
